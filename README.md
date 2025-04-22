@@ -1,7 +1,7 @@
 # Hi, I'm Bintang!👋
 
 ## 💫 About Me:
-🔭 I’m currently working on socaial media design<br>  ⚡ I enjoy designing user interfaces.<br>  🌱 I’m currently learning Laravel<br>  💬 Ask me about any design project<br>
+🔭 I’m currently working on social media design<br>  ⚡ I enjoy designing user interfaces.<br>  🌱 I’m currently learning Laravel<br>  💬 Ask me about any design project<br>
 
 
 ## 🌐 Socials:
