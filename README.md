@@ -24,7 +24,7 @@
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=light&bg_color=F6F8FA&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=light&hide_border=true&bg_color=F6F8FA" />
     <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=radical&hide_border=true" />
   </picture>
   <br/>
