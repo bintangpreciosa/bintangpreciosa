@@ -16,11 +16,23 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bintangpreciosa&theme=light&hide_border=true&include_all_commits=true&count_private=false" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
+  </picture>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=radical&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=light&hide_border=true" />
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=bintangpreciosa&theme=radical&hide_border=true" />
+  </picture>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangpreciosa&theme=light&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  </picture>
 
 </div>
 
