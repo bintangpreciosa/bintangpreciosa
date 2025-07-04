@@ -1,10 +1,3 @@
-<!-- Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&fontSize=45&fontColor=ffffff&fontAlignY=40" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&fontAlignY=40" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&fontAlignY=40" />
-</picture>
-
 <div align="center">
 
 # 🌟 BINTANG PRECIOSA 🌟
@@ -89,10 +82,3 @@
 </picture>
 
 </div>
-
-<!-- Footer -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
-</picture>
