@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 About Me
+### 💫 About Me 💫
 
 🔭 I’m currently working on social media design  
 ⚡ I enjoy designing user interfaces  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me 🌐
 
 <a href="https://instagram.com/bintangpreciosa"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/bintangpreciosa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,7 +23,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🐍 My Contributions
+### 🐍 My Contributions 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bintangpreciosa/bintangpreciosa/output/github-snake-dark.svg" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 📊
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bintangpreciosa&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
@@ -82,3 +82,7 @@
 </picture>
 
 </div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> f0d61869dd9f7a5198a632c46cb577464835bc1f
