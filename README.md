@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on social media design  
 ⚡ I enjoy designing user interfaces  
-🌱 I’m currently learning NestJs  
+🌱 I’m currently learning Flutter  
 💬 Ask me about any design project
 
 ---
